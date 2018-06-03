@@ -1,0 +1,20 @@
+C:\Users\Lachlan Horsey\documents\visual studio 2017\Projects\VPKPatcher\VPKPatcher\bin\Debug\VPKPatcher.exe.config
+C:\Users\Lachlan Horsey\documents\visual studio 2017\Projects\VPKPatcher\VPKPatcher\bin\Debug\VPKPatcher.exe
+C:\Users\Lachlan Horsey\documents\visual studio 2017\Projects\VPKPatcher\VPKPatcher\bin\Debug\VPKPatcher.pdb
+C:\Users\Lachlan Horsey\documents\visual studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.csprojResolveAssemblyReference.cache
+C:\Users\Lachlan Horsey\documents\visual studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.Form1.resources
+C:\Users\Lachlan Horsey\documents\visual studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.Properties.Resources.resources
+C:\Users\Lachlan Horsey\documents\visual studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.csproj.GenerateResource.Cache
+C:\Users\Lachlan Horsey\documents\visual studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.csproj.CoreCompileInputs.cache
+C:\Users\Lachlan Horsey\documents\visual studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.exe
+C:\Users\Lachlan Horsey\documents\visual studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.pdb
+D:\User\Documents\Visual Studio 2017\Projects\VPKPatcher\VPKPatcher\bin\Debug\VPKPatcher.exe.config
+D:\User\Documents\Visual Studio 2017\Projects\VPKPatcher\VPKPatcher\bin\Debug\VPKPatcher.exe
+D:\User\Documents\Visual Studio 2017\Projects\VPKPatcher\VPKPatcher\bin\Debug\VPKPatcher.pdb
+D:\User\Documents\Visual Studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.csprojResolveAssemblyReference.cache
+D:\User\Documents\Visual Studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.Form1.resources
+D:\User\Documents\Visual Studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.Properties.Resources.resources
+D:\User\Documents\Visual Studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.csproj.GenerateResource.Cache
+D:\User\Documents\Visual Studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.csproj.CoreCompileInputs.cache
+D:\User\Documents\Visual Studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.exe
+D:\User\Documents\Visual Studio 2017\Projects\VPKPatcher\VPKPatcher\obj\Debug\VPKPatcher.pdb
